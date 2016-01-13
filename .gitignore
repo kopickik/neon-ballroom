@@ -1,0 +1,4 @@
+# ignore private config
+env/private
+# ignore 3rd party packages
+node_modules

@@ -1,0 +1,30 @@
+{
+  "name": "neon-ballroom",
+  "version": "1.0.0",
+  "description": "Creating an awesome node app from scratch!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopickik/neon-ballroom.git"
+  },
+  "keywords": [
+    "Just",
+    "a",
+    "node",
+    "app",
+    "from",
+    "scratch"
+  ],
+  "author": "Kyle Kopicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kopickik/neon-ballroom/issues"
+  },
+  "homepage": "https://github.com/kopickik/neon-ballroom#readme",
+  "dependencies": {
+    "nconf": "^0.8.2"
+  }
+}
